@@ -90,5 +90,8 @@ Todo ecosistema foi conteinerizado utilizando a ferramenta Docker CE (https://ww
 6 - Verificação final dos processamentos executados
 
 ![](/docs/009.jpg)
-![Arquivo Processado - Machado de Assis](/docs/machado_assis.contagem_final.txt)
-![Arquivo Processado - Shakespeare](/docs/shakespeare.contagem_final.txt)
+
+
+[Download do Arquivo Processado - Machado de Assis](https://raw.githubusercontent.com/hersonpc/mba-mapreduce/master/docs/machado_assis.contagem_final.txt)  
+
+[Download do Arquivo Processado - Shakespeare](https://raw.githubusercontent.com/hersonpc/mba-mapreduce/master/docs/shakespeare.contagem_final.txt)
