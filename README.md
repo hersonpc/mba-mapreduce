@@ -30,7 +30,7 @@ A universitade Massachusetts Institute of Technology (MIT) disponibilizou o docu
 https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt
 
 
-# Executando o projeto
+## Executando o projeto
 
 Para executar o projeto, precisamos contruir a imagem do docker e depois executa-la.
 
@@ -62,7 +62,7 @@ http://hadoop.apache.org/releases.html
 Todo ecosistema foi conteinerizado utilizando a ferramenta Docker CE (https://www.docker.com/) na versão 2.1.0.4, engine 19.03.04.
 
 
-# Imagens da execução geral do processo
+## Imagens da execução geral do processo
 
 1 - Inicializando a instancia Hadoop no docker
 
@@ -92,6 +92,10 @@ Todo ecosistema foi conteinerizado utilizando a ferramenta Docker CE (https://ww
 ![](/docs/009.jpg)
 
 
-[Download do Arquivo Processado - Machado de Assis](https://raw.githubusercontent.com/hersonpc/mba-mapreduce/master/docs/machado_assis.contagem_final.txt)  
+## Downloads
 
-[Download do Arquivo Processado - Shakespeare](https://raw.githubusercontent.com/hersonpc/mba-mapreduce/master/docs/shakespeare.contagem_final.txt)
+[Download - MapReduce JAR](https://github.com/hersonpc/mba-mapreduce/raw/master/docker/bin/ContaPalavras.jar)
+
+[Download - Resultado processamento 1](https://raw.githubusercontent.com/hersonpc/mba-mapreduce/master/docs/machado_assis.contagem_final.txt)  
+
+[Download - Resultado processamento 2](https://raw.githubusercontent.com/hersonpc/mba-mapreduce/master/docs/shakespeare.contagem_final.txt)
